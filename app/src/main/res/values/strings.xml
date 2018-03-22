@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VAMP</string>
+    <string name="title_activity_post_jobs">PostJobsActivity</string>
+    <string name="large_text">text</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="text">
+        <item>IT SECTOR</item>
+        <item>GOVERNMENT</item>
+        <item>NON-TECH</item>
+        <item>PRIVATE</item>
+        <item>SALES </item>
+
+    </string-array>
+
+
+</resources>
